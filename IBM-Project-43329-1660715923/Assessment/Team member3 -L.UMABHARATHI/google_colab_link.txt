@@ -1,4 +1,0 @@
-Assignment 1:
-https://colab.research.google.com/drive/1taaFNLElI0PmOLTsKoV8Kxn9vcnbk_n5?usp=sharing
-Assignment 2:
-https://colab.research.google.com/drive/1t40nnCM9Pq-jT63GqMYY1Ru9rhr3tBSV?usp=sharing
